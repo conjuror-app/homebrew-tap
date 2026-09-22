@@ -1,6 +1,6 @@
 cask 'conjuror@alpha' do
-  version '1.0-alpha.13'
-  sha256 'b14e19eceb45c3d08909417ec325950d699e9fce202873b2e9499247336fc9aa'
+  version '1.0-alpha.14'
+  sha256 '344e4a44613b9965776ab4b23d621f57da5f9b49bd5b8149d22bcaa5780cf700'
 
   url "https://github.com/conjuror-app/releases/releases/download/#{version}/conjuror-#{version}.zip"
   name 'Conjuror'
